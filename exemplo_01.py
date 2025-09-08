@@ -1,3 +1,4 @@
+# AULA SOBRE GITHUB
 idade = int(input("informe a sua idade:"))
 
 if idade >= 18:
